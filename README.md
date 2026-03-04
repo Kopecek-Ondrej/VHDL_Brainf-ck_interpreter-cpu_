@@ -1,0 +1,2 @@
+## The goal 
+of this project is to implement, using VHDL, a processor capable of executing a program written in an extended version of the BrainF*ck language [1, 2]. In its basic version, the language uses only eight simple commands (instructions) and constitutes a Turing-complete set, which makes it possible to implement any algorithm. Automated tests are available for basic verification of correct functionality.
